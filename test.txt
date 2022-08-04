@@ -1,4 +1,10 @@
-Hii
+Hii.
 This is test file.
 
 Created 1st Commit.
+
+Created branch i.e Demo1.
+
+Created 2nd branch i.e Demo2.
+Using the -b option on checkout will create a new branch, 
+and move to it, if it does not exist.
